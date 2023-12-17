@@ -1,6 +1,6 @@
 # WASM Game of Life
 
-This is an adapted dem application from the [Rust 🦀 and WebAssembly 🕸](https://rustwasm.github.io/docs/book/) book.
+This is an adapted demo application from the [Rust 🦀 and WebAssembly 🕸](https://rustwasm.github.io/docs/book/) book.
 
 ## What happens here?
 
