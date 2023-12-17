@@ -29,4 +29,6 @@ jobs:
         run: wasm-pack build
       - name: Build web app
         working-directory: ./www
-        run: npm run build
+        run: |
+          npm install
+          npm run build
