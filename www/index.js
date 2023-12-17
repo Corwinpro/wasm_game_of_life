@@ -1,5 +1,5 @@
 import { Universe, UniversePattern } from "wasm-gol";
-import { memory } from "wasm-gol/wasm_gol_bg";
+import { memory } from "wasm-gol/wasm_gol_bg.wasm";
 
 const fps = new (class {
     constructor() {
